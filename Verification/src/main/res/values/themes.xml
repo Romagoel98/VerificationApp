@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.VerificationApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.VerificationApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.VerificationApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
